@@ -89,7 +89,7 @@ span {
 
 @media only screen and (min-width: 716px){
     body {
-        font-size: 12px;
+        font-size: .75rem;
         line-height: 1.5rem ;
     }
     .wrapper {
@@ -129,6 +129,9 @@ span {
 }
 
 @media only screen and (min-width: 916px) {
+    body {
+        font-size: .875rem;
+    }
     .wrapper {
         max-width: 900px;
         margin: 0 auto;
